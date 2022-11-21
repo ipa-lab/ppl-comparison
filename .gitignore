@@ -1,0 +1,6 @@
+coin*
+beanmachine.log
+.ipynb_checkpoints/
+.build/
+.DS_Store
+*.o
