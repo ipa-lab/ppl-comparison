@@ -4,3 +4,4 @@ beanmachine.log
 .build/
 .DS_Store
 *.o
+*.env
